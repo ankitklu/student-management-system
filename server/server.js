@@ -11,7 +11,7 @@ app.use(bodyParser.json());
 app.use(cors());
 
 //CONNECTION ESTABLISHMENT BETWEEN NODE.JS TO MONGODB
-const MONGO_URL='mongodb+srv://akm:2200032823@cluster0.crdqzyr.mongodb.net/?retryWrites=true&w=majority';
+const MONGO_URL='';
 mongoose.connect(MONGO_URL,{
     useNewUrlParser: true,
     useUnifiedTopology: true
