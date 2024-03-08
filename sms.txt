@@ -1,0 +1,8 @@
+npm i multer => SMS/server
+npm i csvtojson=> SMS/server
+
+in front-end
+npm i axios
+npm install @mui/material @emotion/react @emotion/styled => materialUI
+npm install @mui/material @mui/styled-engine-sc styled-components
+npm install @mui/icons-material
